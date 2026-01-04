@@ -34,7 +34,8 @@ including data cleaning, pivot table analysis, and dashboard creation.
 ## Dashboard Preview
 Below is the final Excel dashboard created as part of this analysis.
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](https://github.com/divyansh-data-analyst/excel-sales-analysis/blob/ebdc56ce7a6afafc7b3bb6cb78aa22b0e39a7721/dashboard.png.png)
+
 
 ## Conclusion
 This project demonstrates practical Excel skills such as data cleaning,
